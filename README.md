@@ -28,4 +28,16 @@ The data used in this project comes from the London Bike Sharing Dataset on Kagg
 
 ## Data Cleaning
 
+To data cleaning code can be viewed [here](https://github.com/jidafan/London-Bike/blob/main/datacleaning.ipynb)
+
+Here are the steps we will follow to clean the data:
+
+* Import the data
+* Explore the data
+* Changing column names
+*Writing to excel file
+
+## Results
+
+The tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/scott.duong8287/viz/LondonBikeShare_16994113330510/Dashboard1)
 
