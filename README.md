@@ -25,3 +25,7 @@ The data used in this project comes from the London Bike Sharing Dataset on Kagg
 | `is_holiday`     | Boolean variable for if it is a holiday or not      |   
 | `is_weekend` | Boolean variable for if it is a weekend or not                           |
 | `season` | Category field for which season it is                         |
+
+## Data Cleaning
+
+
