@@ -35,7 +35,7 @@ Here are the steps we will follow to clean the data:
 * Import the data
 * Explore the data
 * Changing column names
-*Writing to excel file
+* Writing to excel file
 
 ## Results
 
